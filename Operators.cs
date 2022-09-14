@@ -36,18 +36,3 @@ namespace OperatorExercise
             return a %= b;
         }
 
-        //public static int opStr()
-        //{
-        //    if (a == 17 && b == 4)
-        //    {
-        //        return stringNum;
-        //    }
-        //}
-
-    }
-}
-
-//int a = 17;
-//int b = 4;
-//int quotient = b;
-//int remainder = a % b;

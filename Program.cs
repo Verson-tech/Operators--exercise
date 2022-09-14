@@ -1,6 +1,4 @@
 ﻿//Exercise 1:
-
-//int remainder = a % b;
 using OperatorExercise;
 int a = 17;
 int b = 4;
@@ -13,7 +11,6 @@ Console.WriteLine($"Multiply: {Operators.OperatorStringMultiply(a, b)}");
 Console.WriteLine($"Quotient:");
 int quotient = Operators.OperatorStringDivide(a, b);
 Console.WriteLine($"{quotient}");
-
 int remainder = Operators.OperatorStringModulus(a, b);
 Console.WriteLine($"Remainder:");
 Console.WriteLine($"{remainder}");

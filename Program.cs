@@ -21,8 +21,12 @@ string opString = (a == 17 && b == 4) ? $"{a} / {b} is {quotient} remainder {1}"
 Console.WriteLine(opString);
 
 
+//Exercise 2:
+Operators.AreaOfCircle();
 
 
 
+
+ 
 
 
